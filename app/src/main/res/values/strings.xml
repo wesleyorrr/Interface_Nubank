@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">InterfaceNubank</string>
+    <string name="txt_nome_usuario">Olá, Wesley de Oliveira</string>
+    <string name="txt_saldo_conta">Conta \n\n R$ 1000.00</string>
 </resources>
