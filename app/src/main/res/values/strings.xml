@@ -2,4 +2,10 @@
     <string name="app_name">InterfaceNubank</string>
     <string name="txt_nome_usuario">Olá, Wesley de Oliveira</string>
     <string name="txt_saldo_conta">Conta \n\n R$ 1000.00</string>
+    <string name="meus_cartoes">Meus Cartões</string>
+    <string name="txt_cartaodecredito">Cartão de crédito</string>
+    <string name="fatura_atual">Fatura Atual</string>
+    <string name="Fatura_Txt">R$ 100,00</string>
+    <string name="limite_disponivel">limite disponivel de R$ 5.000.00</string>
+    <string name="parcele_suas_compras">Parcele suas Compras</string>
 </resources>
